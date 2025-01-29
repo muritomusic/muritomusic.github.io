@@ -31,7 +31,6 @@ github_username:  muritomusic
 
 # Build settings
 remote_theme: eliottvincent/bay
-plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
